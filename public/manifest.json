@@ -1,0 +1,21 @@
+{
+  "name": "LingoAI - English Mastery",
+  "short_name": "LingoAI",
+  "description": "Learn English with AI through speaking, listening, and writing.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/lingoai/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/lingoai/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

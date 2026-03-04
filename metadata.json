@@ -1,0 +1,5 @@
+{
+  "name": "LingoAI - English Mastery",
+  "description": "Personalized AI English learning with a daily discipline lock. Complete 5 tasks to unlock your day.",
+  "requestFramePermissions": ["microphone"]
+}
